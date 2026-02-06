@@ -1,4 +1,3 @@
-# Prodigy-Infotech-DS-Task-1
 # 🌍 Population Visualization (2024)
 
 This project visualizes the population of the first five countries from a World Bank dataset using a bar chart.
